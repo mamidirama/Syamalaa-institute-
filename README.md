@@ -12,11 +12,7 @@
 ### Team Leader
 - **Thilak Nalla**
 
-### Team Members
-- Geethu Lahari
-- Swathi Vasireddy
-- Sri Sai Vijaya Durga Pushpa Adigarla
-- Venkata Sai Supriya Ramayanam
+### Team 
 
 ---
 
